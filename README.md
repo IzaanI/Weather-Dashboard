@@ -29,7 +29,7 @@ All weather data is fetched from the free public API at [weatherapi.com](https:/
 To run this project locally (please get your own free weatherapi key by creating an account):
 
 ```bash
-git clone https://github.com/your-username/weather-dashboard.git
+git clone https://github.com/IzaanI/weather-dashboard.git
 cd weather-dashboard
 npm install
 npm run dev
