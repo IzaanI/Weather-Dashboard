@@ -1,4 +1,4 @@
-# 🌤️ Weather Dashboard
+# 🌤️ Weather Dashboard [(link)](https://izaani.github.io/Weather-Dashboard/)
 
 This is a simple weather dashboard web app that displays up-to-date **temperature** and **condition information** (e.g. sunny, cloudy, rainy, etc.) by automatically detecting your geolocation. 
 It also features a **12-hour hourly forecast**, giving users a quick glance at upcoming weather conditions.
