@@ -36,7 +36,8 @@ function App() {
 
   useEffect(() => {
     if (lat !== null && lon !== null) {
-      fetch(`https://api.weatherapi.com/v1/forecast.json?key=bee3c7acce1e426e8ae172149252307&q=${lat},${lon}`)//&lang=hi
+      //use your own free weatherapi key below: [YOUR_API_KEY]
+      fetch(`https://api.weatherapi.com/v1/forecast.json?key=[YOUR_API_KEY]&q=${lat},${lon}`)//&lang=hi
         .then(res => res.json())
         .then(data => {
           //console.log(data)
