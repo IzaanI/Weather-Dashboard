@@ -26,7 +26,7 @@ All weather data is fetched from the free public API at [weatherapi.com](https:/
 
 ## 📦 Setup & Deployment
 
-To run this project locally:
+To run this project locally (please get your own free weatherapi key by creating an account):
 
 ```bash
 git clone https://github.com/your-username/weather-dashboard.git
